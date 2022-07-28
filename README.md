@@ -1,2 +1,0 @@
-# umu
-idot
